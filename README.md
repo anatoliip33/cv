@@ -1,2 +1,2 @@
 # cv
-My latest CV
+My CV
